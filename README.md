@@ -1,3 +1,3 @@
 # Arduino-Seminar
 Download the Arduino Software first.
-!image[그림1](https://user-images.githubusercontent.com/59195649/72521899-c5572680-389f-11ea-813f-a11cc242c542.png)
+![screenshot](https://user-images.githubusercontent.com/59195649/72522399-f3893600-38a0-11ea-8d5b-63e3b9428d15.png)
